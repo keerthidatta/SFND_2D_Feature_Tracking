@@ -1,0 +1,5 @@
+detectorType BRISK
+descriptorType BRISK
+matcherType MAT_BF
+descriptorNorm DES_BINARY
+selectorType SEL_KNN
